@@ -1,0 +1,112 @@
+# Jers — Generative Engine Optimization Map
+
+> An online store specializing in football (soccer) jerseys. The business revolves around football culture and apparel, targeting fans and players who want to purchase football shirts.
+
+---
+
+## Pages
+
+### בית
+https://jers-645c626f.zappy5.app
+חנות האונליין המובילה לחולצות כדורגל מקוריות לחובבי הספורט האמיתיים. מצאו את הגופייה המושלמת ממגוון עצום, הרגישו את תרבות הכדורגל ושדרגו את ההופעה שלכם עוד היום.
+
+### תרבות כדורגל
+https://jers-645c626f.zappy5.app/football-culture
+התחברו לעומק תרבות הכדורגל עם Jers. כתבות, סיפורים ותשוקה אמיתית למשחק היפה. גלו איך החולצה שלכם הופכת לסמל של שייכות ואהבה אינסופית למגרש.
+
+### אותנטיות והתאמה
+https://jers-645c626f.zappy5.app/authenticity-fit
+ב-Jers אנו מתחייבים לאותנטיות והתאמה מושלמת לכל חובב כדורגל. למדו כיצד לבחור את הגופייה המקורית שתחמיא לכם, עם מדריכי מידות וטיפים שיבטיחו נוחות וסטייל מנצח.
+
+### אודות
+https://jers-645c626f.zappy5.app/about
+הכירו את Jers – מותג שנולד מאהבה אמיתית לכדורגל. אנו מביאים לכם חולצות כדורגל מקוריות באיכות ללא פשרות, עם שירות אישי שמבין את נשמת האוהד. הצטרפו למסע שלנו והפכו לחלק מהמשפחה.
+
+### צור קשר
+https://jers-645c626f.zappy5.app/contact
+יש לכם שאלה על חולצות כדורגל מקוריות? צוות Jers כאן בשבילכם! צרו קשר עוד היום לקבלת ייעוץ אישי, מענה על שאלות והזמנות מיוחדות. אנחנו מחכים לשמוע מכם ולהלביש אתכם בניצחון.
+
+### Products
+https://jers-645c626f.zappy5.app/products
+המוצרים שלנו - Jers
+
+### Cart
+https://jers-645c626f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://jers-645c626f.zappy5.app/checkout
+תשלום
+
+### Login
+https://jers-645c626f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://jers-645c626f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://jers-645c626f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://jers-645c626f.zappy5.app/product/:slug
+פרטי המוצר - Jers
+
+### Category
+https://jers-645c626f.zappy5.app/category/:slug
+מוצרים - Jers
+
+### תודה רבה - פנייתך התקבלה | Jers
+https://jers-645c626f.zappy5.app/thank-you
+תודה על פנייתך ל-Jers. פנייתך התקבלה בהצלחה וצוות השירות שלנו יחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://jers-645c626f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jers-645c626f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jers-645c626f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Jers
+An online store specializing in football (soccer) jerseys. The business revolves around football culture and apparel, targeting fans and players who want to purchase football shirts.
+
+## Services/Products
+- חולצות כדורגל
+
+## Target Audience
+- חובבי כדורגל ואספנים
+- ספורטאים צעירים
+- משתתפי אירועי ספורט
+- אוהבי סטייל וכדורגל
+
+## Industry
+Sports Apparel E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://jers-645c626f.zappy5.app/sitemap.xml
+- Robots: https://jers-645c626f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jers-645c626f.zappy5.app/llms-full.txt
+- Products (JSON): https://jers-645c626f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://jers-645c626f.zappy5.app/product-feed.xml
